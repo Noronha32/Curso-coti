@@ -1,0 +1,15 @@
+C:\Curso-Coti\Exercício01\Exercício01\bin\Debug\net7.0\Exercício01.exe
+C:\Curso-Coti\Exercício01\Exercício01\bin\Debug\net7.0\Exercício01.deps.json
+C:\Curso-Coti\Exercício01\Exercício01\bin\Debug\net7.0\Exercício01.runtimeconfig.json
+C:\Curso-Coti\Exercício01\Exercício01\bin\Debug\net7.0\Exercício01.dll
+C:\Curso-Coti\Exercício01\Exercício01\bin\Debug\net7.0\Exercício01.pdb
+C:\Curso-Coti\Exercício01\Exercício01\obj\Debug\net7.0\Exercício01.csproj.AssemblyReference.cache
+C:\Curso-Coti\Exercício01\Exercício01\obj\Debug\net7.0\Exercício01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-Coti\Exercício01\Exercício01\obj\Debug\net7.0\Exercício01.AssemblyInfoInputs.cache
+C:\Curso-Coti\Exercício01\Exercício01\obj\Debug\net7.0\Exercício01.AssemblyInfo.cs
+C:\Curso-Coti\Exercício01\Exercício01\obj\Debug\net7.0\Exercício01.csproj.CoreCompileInputs.cache
+C:\Curso-Coti\Exercício01\Exercício01\obj\Debug\net7.0\Exercício01.dll
+C:\Curso-Coti\Exercício01\Exercício01\obj\Debug\net7.0\refint\Exercício01.dll
+C:\Curso-Coti\Exercício01\Exercício01\obj\Debug\net7.0\Exercício01.pdb
+C:\Curso-Coti\Exercício01\Exercício01\obj\Debug\net7.0\Exercício01.genruntimeconfig.cache
+C:\Curso-Coti\Exercício01\Exercício01\obj\Debug\net7.0\ref\Exercício01.dll
